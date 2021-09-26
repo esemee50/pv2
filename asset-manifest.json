@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pv2/static/css/main.00d13990.chunk.css",
+    "main.js": "/pv2/static/js/main.e029df36.chunk.js",
+    "main.js.map": "/pv2/static/js/main.e029df36.chunk.js.map",
+    "runtime-main.js": "/pv2/static/js/runtime-main.494adb42.js",
+    "runtime-main.js.map": "/pv2/static/js/runtime-main.494adb42.js.map",
+    "static/js/2.9fea9e24.chunk.js": "/pv2/static/js/2.9fea9e24.chunk.js",
+    "static/js/2.9fea9e24.chunk.js.map": "/pv2/static/js/2.9fea9e24.chunk.js.map",
+    "static/js/3.dd4b91ed.chunk.js": "/pv2/static/js/3.dd4b91ed.chunk.js",
+    "static/js/3.dd4b91ed.chunk.js.map": "/pv2/static/js/3.dd4b91ed.chunk.js.map",
+    "index.html": "/pv2/index.html",
+    "static/css/main.00d13990.chunk.css.map": "/pv2/static/css/main.00d13990.chunk.css.map",
+    "static/js/2.9fea9e24.chunk.js.LICENSE.txt": "/pv2/static/js/2.9fea9e24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.494adb42.js",
+    "static/js/2.9fea9e24.chunk.js",
+    "static/css/main.00d13990.chunk.css",
+    "static/js/main.e029df36.chunk.js"
+  ]
+}
